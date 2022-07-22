@@ -3,7 +3,24 @@
     background-color: blanchedalmond;
     display:flex;
 }
-.pages {
-    margin-left: 75rem;
+.buttons {
+        margin-left: 75rem;
+      }
     
+
+.btn{
+    background-color: #8775ba; 
+    border:none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 15px;
+    transition-duration: 0.4s;
+}
+.btn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
