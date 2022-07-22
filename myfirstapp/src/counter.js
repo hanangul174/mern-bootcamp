@@ -31,7 +31,7 @@ export default function Counter() {
 
   return (
      <>
-    <button value="add" onClick={handle_on_click} style={{' textAlign:center'}}> add </button>
+    <button value="add" onClick={handle_on_click} style={{backgroundColor: "black"}}> add </button>
     <span> {count}</span>
     <button value="sub" onClick={handle_on_click}> subtract </button>
     </>

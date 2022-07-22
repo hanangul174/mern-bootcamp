@@ -1,0 +1,9 @@
+.navb{
+    flex-direction: row;
+    background-color: blanchedalmond;
+    display:flex;
+}
+.pages {
+    margin-left: 75rem;
+    
+}
