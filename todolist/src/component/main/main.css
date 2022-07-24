@@ -69,14 +69,14 @@
     flex-direction: column;
     align-items: center;
     height: 50%;
-    /* border:2px solid; */
+     /* border:2px solid; */
     width: 75%;
     margin-top: 5%;
 }
 .result_output{
-     /* border: 2px solid; */
+    /* border: 2px solid;  */
     height: 40px;
-    width: 90%;
+    width: 80%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -92,16 +92,15 @@
 }
 .btn{
     height: 26px;
-    width: 80px;
+    width: 60px;
     /* margin-left: 20px; */
     background-color: #fff; 
     border: 2px solid rgb(225,225, 225);
     border-radius: 20px;
-    font-size: large;
+    font-size:medium;
     font-weight: bold;
     align-self: center;
      /* padding: 3px;  */
     color: #003049;
     margin: 2px;
 }
- 
