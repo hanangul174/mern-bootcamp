@@ -103,4 +103,13 @@
      /* padding: 3px;  */
     color: #003049;
     margin: 2px;
+    
+}
+
+.btn:hover {background-color: #acd7ad}
+
+.btn:active {
+  background-color: #acd7ad;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
